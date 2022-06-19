@@ -1,0 +1,10 @@
+.posts{
+display:flex;
+width: 75%;
+flex-flow: row;
+flex-wrap: wrap;
+margin: auto;
+padding-top: 1rem;
+justify-content: center;
+align-items: center;
+}
